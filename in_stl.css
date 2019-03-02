@@ -1,0 +1,27 @@
+p {
+	font-family:Georgia; 
+	text-align:left;
+}
+body {
+	background:url(Pictures/Back.jpg) no-repeat;
+	background-size: 100%;
+	color: #232220;
+}
+
+.button {
+  background-color: #076987;
+  border:solid #CC5555;
+  color: black;
+  font-family:Georgia;
+  padding: 10px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  width:70px;
+  height:20px;
+}
+
+.wrapper {
+    text-align: center;
+}
